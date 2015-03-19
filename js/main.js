@@ -7,4 +7,5 @@ var pobject ={
     padding: "5px"
 }
 $(paragraphs).css(pobject);
+
 });
