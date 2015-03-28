@@ -2,7 +2,7 @@ $(document).ready(function() {
 
     var paragraphs = $("p");
     var pobject ={
-        fontSize: "1.1",
+        fontSize: "1.1em",
         color: "indigo",
         padding: "5px"
     }
