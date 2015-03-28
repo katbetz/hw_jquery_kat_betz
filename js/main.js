@@ -6,6 +6,7 @@ $(document).ready(function() {
         color: "indigo",
         padding: "5px"
     }
-    $(paragraphs).css(pobject);
+
+    paragraphs.css(pobject);
 
 });
